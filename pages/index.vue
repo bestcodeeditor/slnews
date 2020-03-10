@@ -150,7 +150,7 @@
     <md-drawer class="md-right" md-fixed :md-active.sync="showRightSidepanel">
       <md-toolbar :md-elevation="1">
         <span class="md-title">
-          <md-icon class="md-size-3x">category</md-icon>
+          <md-icon class="md-size-1x">category</md-icon>
         </span>
       </md-toolbar>
 
