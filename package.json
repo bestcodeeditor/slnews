@@ -1,0 +1,32 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "a news app",
+  "author": "sudip",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "@nuxtjs/proxy": "^1.3.3",
+    "cross-env": "^5.2.0",
+    "date-fns": "^2.10.0",
+    "firebase": "^7.9.3",
+    "js-cookie": "^2.2.1",
+    "md5": "^2.2.1",
+    "nuxt": "^2.0.0",
+    "slugify": "^1.4.0",
+    "uuid": "^7.0.2",
+    "vue-material": "^1.0.0-beta-11",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "nodemon": "^1.11.0",
+    "sass-loader": "^8.0.2"
+  }
+}
